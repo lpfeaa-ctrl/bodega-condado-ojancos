@@ -1,0 +1,22 @@
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Carpeta de botellas en bruto (ya optimizadas en assets/images)
+Imagenes botellas/
+tonelesojancos-780x260.jpg
+valleojancos-780x260.jpg
+vinedoojancos-780x260.jpg
+clean_text.txt
+curl_out.html
+curl_text.txt
+extract.ps1
+extract_curl.ps1
+extract_links.ps1
+get_all_pages.ps1
+links.txt
+scraped_details.txt
+scraped_details_utf8.txt
+scraped_remaining.txt
+get_remaining_wines.ps1
